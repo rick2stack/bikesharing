@@ -21,7 +21,9 @@ The heat maps below show the amount of rides per hour. There are two main trends
 2. Second trend, the customers are using the bike ride services during Saturday and Sunday during the day time.  This is possible for leisure.    
 
 *Take note that both the trends are present in all the genders.
-  
+
+![Trips_by_Hour_Weekday](https://github.com/rick2stack/bikesharing/blob/main/Resources/Trips%20by%20Weekday%20for%20Each%20Hour.png) 
+
 ![Trips_by_Gender_Hour](https://github.com/rick2stack/bikesharing/blob/main/Resources/Trips%20by%20Gender.png)  
 
 ![Trips_by_Gender_UserType_Weekday](https://github.com/rick2stack/bikesharing/blob/main/Resources/Trips%20by%20Gender%20%26%20User%20Type.png)
@@ -32,4 +34,4 @@ Finally the last heat map shows which days have the most rides.  Monday, Tuesday
 
 # Summary
 
-As the New York's Citi's bike ride data suggest, a good candidate for bike ride sharing services will be a place that has a commute culture, has areas of leisure, can create long term subscribers.  Des Mois having 7 out of the 12 month of the year with moderate weather makes it ideal candidate for a city with leisure activities.  Additionally,  Des Mois has several suburban areas with a population of 800K.  This means that Des Mois has a commuter culture, since poeple living the suburbs tends to work in the metropolian area.    
+As the New York's Citi's bike ride data suggest, in order for the bike sharing service to succeed long term subscribers are needed.   Areas that can potentially create subscribers are:  places that has a commute culture, places that can have leisure activities.  Des Mois has 7 out of the 12 month of the year with moderate weather makes it ideal candidate for a city with leisure activities.  Additionally,  Des Mois has several suburban areas and with a combine urban and suburban population of over 800K.  This means that Des Mois has a commuter culture, since poeple living the suburbs tend to work in the urban area. In conclusion, Des Mois has the two main factors to create long term bike ride sharing service subscribers. 
