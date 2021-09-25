@@ -32,6 +32,9 @@ The heat maps below show the amount of rides per hour. There are two main trends
 
 Finally the last heat map shows which days have the most rides.  Monday, Tuesday, Thursday, and Friday are the days with the most rides.  
 
+# Tableu Link
+A more detail visualization can be found on the link https://public.tableau.com/views/CitiRideStory/CitiBike?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link 
+
 # Summary
 
 As the New York's Citi's bike ride data suggest, in order for the bike sharing service to succeed long term subscribers are needed.   Areas that can potentially create subscribers are:  places that has a commute culture, places that can have leisure activities.  Des Mois has 7 out of the 12 month of the year with moderate weather makes it ideal candidate for a city with leisure activities.  Additionally,  Des Mois has several suburban areas and with a combine urban and suburban population of over 800K.  This means that Des Mois has a commuter culture, since poeple living the suburbs tend to work in the urban area. In conclusion, Des Mois has the two main factors to create long term bike ride sharing service subscribers. 
