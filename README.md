@@ -33,7 +33,7 @@ The heat maps below show the amount of rides per hour. There are two main trends
 ![Trips_by_Gender_Hour](https://github.com/rick2stack/bikesharing/blob/main/Resources/Trips%20by%20Gender.png)  
 
 # Tableu Link
-A more detail visualization can be found on the link https://public.tableau.com/views/CitiRideStory/CitiBike?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link 
+A more detail visualization can be found on the following link https://public.tableau.com/views/CitiRideStory/CitiBike?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link 
 
 # Summary
 
