@@ -1,6 +1,6 @@
 # bikesharing
 # Project Overview
-The purpose of this project is to use New York's Citi Bike ride data to show that a bike ride sharing services in Des Moines.    
+The purpose of this project is to use New York's Citi Bike ride data to show that a bike ride sharing services in Des Moines, using Tableu and Python/Jupyter.     
 # Results
 ## Demographics
 The first set of pie charts show the demographics for customers that use the Citi Bike Ride Sharing services. As shown below, the majority of the customers are male subscribers.  
